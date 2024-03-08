@@ -87,19 +87,22 @@ https://blog.crypty.it/crittografia-end-to-end-quali-app-messaggistica-la-assicu
 9. 
 
 ... risposta ...
-
+Se poi un utente malintenzionato accedesse ad una rete blockchain e ai suoi dati, non necessariamente sarebbe in grado di leggerne le informazioni. La crittografia completa dei blocchi di dati può essere applicata ai dati in fase di transazione, garantendo in modo efficace la sua riservatezza.
 
 ```
 Fonti:
-
+https://www.blockchain4innovation.it/esperti/crittografia-cose-a-cosa-serve-perche-non-se-ne-puo-fare-a-meno/
 ```
 
 10. 
 
 ... risposta ...
-
+autenticazione: processo che permette di attestare l’identità di ciascun partecipante ad una comunicazione;
+segretezza: indispensabile fare in modo che nessuno possa leggere un messaggio, fatta eccezione per il destinatario desiderato;
+integrità: la protezione da modifiche non autorizzate operate sul messaggio trasmesso 
+non ripudio: un meccanismo atto a fornire la certezza che chi trasmette un messaggio non possa negare di averlo inviato.
 
 ```
 Fonti:
-
+https://www.dgroove.it/cose-la-crittografia-e-perche-e-importante-per-la-protezione-dei-dati-in-azienda/4515/
 ```

@@ -70,7 +70,7 @@ public class Main{
     }
 
     private static String cesareCipher(String text) {
-        int key = 3;
+        int key = 13;
         String result = "";
 
         for (int i = 0; i < text.length(); i++) {
@@ -85,7 +85,7 @@ public class Main{
     }
 
     private static String cesareDecipher(String text) {
-        int key = 3;
+        int key = 13;
         String result = "";
 
         for (int i = 0; i < text.length(); i++) {
